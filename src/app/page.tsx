@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -7,8 +7,8 @@ export default function Home() {
             AI Projects
         </h2>
         <ul>
-            <li><a href="">E-commerce Site</a></li>
-            <li><a href="">Phaser Game</a></li>
+            <li><a href="https://my-ecommerce-site.pages.dev">E-commerce Site</a></li>
+            <li><a href="https://my-phaser-game.pages.dev">Phaser Game</a></li>
         </ul>
     </main>
     // <main className="flex min-h-screen flex-col items-center justify-between p-24">
